@@ -1,1 +1,1 @@
-# DeTTECT-Framework
+# DeTT&CT-Framework
