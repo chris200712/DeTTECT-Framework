@@ -1,0 +1,352 @@
+visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 2
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1550.001
+    technique_name: Application Access Token
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 4
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1550.004
+    technique_name: Web Session Cookie
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 2
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1552
+    technique_name: Unsecured Credentials
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 2
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1552.005
+    technique_name: Cloud Instance Metadata API
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 2
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1553
+    technique_name: Subvert Trust Controls
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 1
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1553.004
+    technique_name: Install Root Certificate
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 2
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1554
+    technique_name: Compromise Client Software Binary
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 2
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1555
+    technique_name: Credentials from Password Stores
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 1
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1555.003
+    technique_name: Credentials from Web Browsers
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 2
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1556
+    technique_name: Modify Authentication Process
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 1
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1559
+    technique_name: Inter-Process Communication
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 1
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1559.001
+    technique_name: Component Object Model
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 2
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1560.001
+    technique_name: Archive via Utility
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 1
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1560.002
+    technique_name: Archive via Library
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 2
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1561
+    technique_name: Disk Wipe
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 1
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1561.002
+    technique_name: Disk Structure Wipe
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
+        comment: ''
+        score_logbook:
+          - date: null
+            score: -1
+            comment: ''
+    visibility:
+      - applicable_to:
+          - all
+        comment: ''
+        score_logbook:
+          - date: 2020-07-10T00:00:00.000Z
+            score: 1
+            comment: introduction of sub-techniques
+            auto_generated: true
+  - technique_id: T1562
+    technique_name: Impair Defenses
+    detection:
+      - applicable_to:
+          - all
+        location:
+          - ''
